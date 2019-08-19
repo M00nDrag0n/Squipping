@@ -1,0 +1,38 @@
+body {
+  font-family: 'Spectral';
+  font-size: 19px;
+  margin-left: 50px;
+  margin-top: 80px;
+  background-color: black;
+  color: white;
+}
+
+.form-control {
+  border-color: #78edff;
+  background-color: black;
+}
+
+#purple {
+  border-color: #54044b;
+  border-style: solid;
+  border-width: medium;
+}
+
+#red {
+  border-color: #8f0101;
+  border-style: solid;
+  border-width: medium;
+}
+
+.img-sq img {
+  height: 300px;
+  width: 350px;
+  position: relative;
+}
+
+.img-F-E img {
+  height: 300px;
+  width: 350px;
+  position: relative;
+
+}
