@@ -10,7 +10,7 @@ _This is a webpage that uses Javascript to display whatever the user types, in a
 
 ## Setup/Installation Requirements
 
-* _Use Github to clone this repository, or use this link [ https://m00ndrag0n.github.io/chainReactiveWalrus/index-buttons.html ] to access the global version of the CSS Buttons project._
+* _Use Github to clone this repository, or use this link [ ] to access the global version of the CSS Buttons project._
 * _Open the repository in your browser_
 * _Type in your grocery list_
 * _Hit the submit button_
